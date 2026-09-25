@@ -15,3 +15,7 @@ console.log(transferAmount)
 console.log(Number.MAX_VALUE*10)
 let bigIntDemo =3456565577687878787878n
 console.log(bigIntDemo, typeof bigIntDemo)
+
+let NotANum = 5 / "Avi"
+
+console.log(NotANum)
